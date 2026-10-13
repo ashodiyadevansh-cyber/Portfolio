@@ -8,7 +8,6 @@ This portfolio showcases my skills, projects, interests, and journey as an aspir
 
 Hi, I'm Devansh!
 
-- 🎓 Currently pursuing B.Sc.
 - 🤖 Learning Data Science, Generative AI, and Machine Learning.
 - 💻 Exploring Python, HTML, CSS, JavaScript, and modern web technologies.
 - 🧠 Interested in Artificial Intelligence, Robotics, and emerging technologies.
