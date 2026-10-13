@@ -32,6 +32,12 @@ Hi, I'm Devansh!
 - 🔗 Links to my GitHub and LinkedIn profiles
 - 🌙 Dark-themed user interface
 
+  ## 🌐 Live Demo
+
+🚀 **[Visit My Portfolio](https://ashodiyadevansh-cyber.github.io/Portfolio/)**
+
+Click the link above to explore my personal portfolio, skills, projects, and contact information.
+
 ## 📂 Project Structure
 
 ```text
