@@ -631,27 +631,8 @@
                 document.getElementById("Contact").scrollIntoView({ behavior: "smooth" });
             });
 
-            const contactForm = document.getElementById("contactForm");
 
-            contactForm.addEventListener("submit", function (event) {
-                event.preventDefault();
-
-                const name = document.getElementById("contactName").value.trim();
-                const email = document.getElementById("contactEmail").value.trim();
-                const subject = document.getElementById("contactSubject").value.trim();
-                const message = document.getElementById("contactMessage").value.trim();
-
-                // Replace this placeholder with your real email address.
-                const myEmail = "YOUR_EMAIL@gmail.com";
-
-                const emailSubject = encodeURIComponent(subject);
-                const emailBody = encodeURIComponent(
-                    `Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`
-                );
-
-                window.location.href =
-                    `mailto:${myEmail}?subject=${emailSubject}&body=${emailBody}`;
-            });
         </script>
+        <script src="script.js"></script>
     </body>
 </html>
